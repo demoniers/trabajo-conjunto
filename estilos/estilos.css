@@ -15,16 +15,10 @@
     border-right: 1px black solid;
 }
 
-#presentacion2 {
-    float: right;
-    width: 49%;
-    border-left: 1px black solid;
-}
-
 #finPresentacion,
 #final {
     clear: both;
-    border-top: 3px black solid;
+    border-top: 3px black;
 }
 
 h2 {
@@ -33,7 +27,7 @@ h2 {
 }
 
 #codigoJava {
-    border: 4px darkgoldenrod dashed;
+    border: 2px darkgoldenrod dashed;
     text-align: center;
 }
 
@@ -51,4 +45,10 @@ h2 {
     text-align: right;
     float: right;
     width: 49%;
+}
+
+.nombresempresas {
+    color: rgb(206, 167, 11);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
 }
