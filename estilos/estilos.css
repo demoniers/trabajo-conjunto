@@ -41,6 +41,10 @@ h2 {
     color: crimson;
     font-weight: bold;
 }
+.resaltarCodigo1 {
+    color: rgb(197, 20, 220);
+    font-style: italic;
+}
 
 #imagen1 {
     float: left;
@@ -51,4 +55,12 @@ h2 {
     text-align: right;
     float: right;
     width: 49%;
+}
+.Lorem{
+    margin: 30px 60px 0px 0px;
+    padding: 7px;
+    float: left;
+    border:  solid 5px fuchsia;
+    border-style:dotted;
+    color: blue;
 }
